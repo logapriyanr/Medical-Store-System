@@ -1,5 +1,5 @@
 # Medical Store Management System
-In this project I have deployed a Medical Store Management System as a Web App using PHP and MySQL
+In this project I have deployed a Medical Store Management System as Web App using PHP and MySQL
 
 ### Softwares Used in this Project :
 - Sublime Text Editor for deploying the PHP files (You can use any text editor for developing the PHP codes)
